@@ -5,11 +5,11 @@
 # MAGIC ##### Description: Outcome
 # MAGIC Author: Yifei Wang
 # MAGIC ###### Release History
+# MAGIC * 2018-05-08 Bug fix JIRA 202
 # MAGIC * 2018-05-08 Initial Version
 
 # COMMAND ----------
 
-from pyspark.sql.functions import *
 from dmutil import *
 
 # COMMAND ----------

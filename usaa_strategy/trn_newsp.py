@@ -5,6 +5,7 @@
 # MAGIC ##### Description: Variable Group
 # MAGIC Author: Your Name
 # MAGIC ###### Release History
+# MAGIC * 2018-05-15 Jira 101 - Release to QA
 # MAGIC * 2018-02-21 Bug Fix 101
 # MAGIC * 2018-02-20 Initial Version
 
